@@ -1,6 +1,6 @@
 # Install Zeroc-ice for Raspberry Pi 3 model b
 
-# 1.) Download and Install Raspbian from [Raspbian Download][1]
+# 1.) Download and Install Raspbian from [Raspbian Download][1].
 This is a trivial process.
 
 # 2.) Update and Upgrade Raspbian.
@@ -17,13 +17,13 @@ sudo apt install libbz2-dev
 ```
 
 
-# 4.) Install Zeroc-ice for Python
+# 4.) Install Zeroc-ice for Python.
 ```
 pip install zeroc-ice
 ```
 
 
-# 5.) Install Zeroc-ice Compilers
+# 5.) Install Zeroc-ice Compilers.
 ```
 sudo apt install zeroc-ice-compilers
 ```
